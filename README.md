@@ -78,7 +78,7 @@
 ### 📬 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-ferreira-undefined-b93b49424" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandro-ferreira-b93b49424?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alejandro.dev.1981@gmail.com">
